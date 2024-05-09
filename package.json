@@ -61,7 +61,7 @@
     "ipfs-server-list": "^1.0.54",
     "ipfs-util-lib": "^1.0.55",
     "is-ipfs": "^6.0.1",
-    "next": "9.4.4",
+    "next": "14.1.1",
     "poke-ipfs": "^1.1.13",
     "pretty-bytes": "^5.3.0",
     "react": "16.13.1",
